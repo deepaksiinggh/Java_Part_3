@@ -1,4 +1,4 @@
-package Exception.Project;
+package Projects.Exeption;
 
 import java.util.Scanner;
 

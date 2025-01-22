@@ -1,4 +1,4 @@
-package Exception.Project;
+package Projects.Exeption;
 
 public class DadaNotMarryExeption extends Exception {
 
