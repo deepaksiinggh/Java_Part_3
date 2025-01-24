@@ -1,4 +1,3 @@
-package Arrays;
 
 public class NegativeVal {
     public static void main(String[] args) {

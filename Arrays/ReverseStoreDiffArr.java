@@ -1,4 +1,3 @@
-package Arrays;
 
 public class ReverseStoreDiffArr {
     public static void main(String[] args) {
