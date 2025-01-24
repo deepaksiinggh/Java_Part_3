@@ -1,3 +1,4 @@
+package VarunSirQuestion;
 
 import java.util.Scanner;
 
