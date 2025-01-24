@@ -1,3 +1,4 @@
+package Practice;
 
 public class FindValLinear {
     public static int findVal(int[] arr, int target) {
