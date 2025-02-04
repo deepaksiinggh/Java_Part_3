@@ -7,7 +7,7 @@ public class SmallAsciVal {
             char ch = str.charAt(i);
 
             if (ch >= 97 && ch <= 122) {
-                System.out.println(ch+"");
+                System.out.println(ch + " " + " ASCI val is => " + (int) ch);
             }
         }
     }

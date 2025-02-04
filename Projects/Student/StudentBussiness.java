@@ -5,9 +5,9 @@ public interface StudentBussiness {
 
     public void fetchAllStudents() throws AddStudentExeption;
 
-    Student fetchStudentByNumber(long PhoneNo) throws AddStudentExeption;
+    public Student fetchStudentByNumber(long PhoneNo) throws AddStudentExeption;
 
-    Student fetchStudentByBranch(String branch) throws AddStudentExeption;
+    public Student fetchStudentByBranch(String branch) throws AddStudentExeption;
 
     public void updateStudentDetails() throws AddStudentExeption;
 
