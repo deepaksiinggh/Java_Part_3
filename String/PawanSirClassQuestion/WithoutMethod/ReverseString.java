@@ -1,11 +1,8 @@
-package Strings.Practice;
+package String.PawanSirClassQuestion.WithoutMethod;
 
-public class ReverseStr {
+public class ReverseString {
     public static void main(String[] args) {
         String s1 = "Deepak Singh";
-        // StringBuilder s3 = new StringBuilder("Shilpi Singh");
-        
-        // System.out.println(s3.reverse());
 
         String s2 = "";
         for (int i = s1.length() - 1; i >= 0; i--) {
@@ -13,5 +10,4 @@ public class ReverseStr {
         }
         System.out.println(s2);
     }
-
 }

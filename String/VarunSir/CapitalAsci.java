@@ -1,4 +1,4 @@
-package Strings.Practice;
+package String.VarunSir;
 
 public class CapitalAsci {
     public static void main(String[] args) {
