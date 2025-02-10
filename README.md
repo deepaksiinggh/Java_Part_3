@@ -8,8 +8,8 @@
 Author - Deepak Singh ❤️
 </h3>
 
-<h4> String All Easy Lavel Questions</h4>
-
+<h4> String All Easy Level Questions</h4>
+<h6>
 1- convert lower String to upper String Using character class
 2- convert upper String to lower String Using character class
 3- count lower character
@@ -33,4 +33,6 @@ Author - Deepak Singh ❤️
 18- print String length without using length()
 19- Remove Space from String
 20- Convert the Character means lower to upper and upper to lower
-21- Segregation means segregate charecter and digit
+21- Segregation means segregating charecter and digit
+
+</h6>
