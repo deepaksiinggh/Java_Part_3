@@ -14,11 +14,35 @@
 14- print special Character
 15- Reverse a String
 16- sum of Digit In a String like "Rt456dgj"  => count =4+5+6=15
-17- Print Each word in a String like "Deepak is Introvert" => Deepak
-                                                              is
-                                                              Introvert
-
+17- Print Each word in a String like "Deepak is an Introvert" => Deepak
+                                                                 is
+                                                                 an
+                                                                 Introvert
 18- print String length without using length()
 19- Remove Space from String
 20- Convert the Charecter means lower to upper and upper to lower
 21- Segrigation means segrigate charecter and digit
+22- write a program and cheack the length of each word whose length is 4
+23- Count word whose length is grater than 2
+24- Count each and every word in a given string
+25- After counting word cheack weather count is even or odd
+26- Print the words which is Starting with 'j'
+27- Print the alternative word in a given string
+28- Print the words which ends with 'e'
+29- Print each word frist charecter in a given string
+30- Print each word last charecter in a given string
+31- print frist 2 charecter in a given string 
+32- print last 2 charecter in a given string 
+33- convert each word frist charecter into uppercase
+
+
+
+ 
+     ****         StringBuffer Folder      ****
+
+
+
+
+
+01 - Reverse each word not whole sentence like => "Deepak is a good boy"
+                                            op=> "kapeeD si a doog yob"
