@@ -31,5 +31,17 @@ Author - Deepak Singh ❤️
 <h6>19- Remove Space from String</h6>
 <h6>20- Convert the Character means lower to upper and upper to lower</h6>
 <h6>21- Segregation means segregating character and digit</h6>
+<h6>22- Write a program and check the length of each word whose length is 4</h6>
+<h6>23- Count words whose length is greater than 2</h6>
+<h6>24- Count every word in a given string</h6>
+<h6>25- After counting words, check whether the count is even or odd</h6>
+<h6>26- Print the words which start with 'j'</h6>
+<h6>27- Print the alternative words in a given string</h6>
+<h6>28- Print the words which end with 'e'</h6>
+<h6>29- Print each word's first character in a given string</h6>
+<h6>30- Print each word's last character in a given string</h6>
+<h6>31- Print the first 2 characters in a given string</h6>
+<h6>32- Print the last 2 characters in a given string</h6>
+<h6>33- Convert each word's first character into uppercase</h6>
 
 
