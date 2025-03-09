@@ -17,11 +17,16 @@ public class NetflixBussinessLogic {
         System.out.println("Enter movie Price :");
         double price = sc.nextDouble();
 
-        System.out.println("Enter movie Rating :");
-        double rating = sc.nextDouble();
-        if (rating > 10) {
-            System.out.println("rating should be less than ");
+        double rating;
+        while (true) {
+            System.out.println("Enter movie Rating (0-10):");
+            rating = sc.nextDouble();
+            if (rating >= 0 && rating <= 10) {
+                break;
+            }
+            System.out.println("Invalid rating! Please enter a value between 0 and 10.");
         }
+
         System.out.println("Enter movie DirectorName :");
         String directer = sc.next();
         System.out.println("Enter movie ProducerName :");
