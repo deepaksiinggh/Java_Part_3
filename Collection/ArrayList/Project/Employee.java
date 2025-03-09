@@ -1,4 +1,4 @@
-package Collection.ArrayList;
+package Collection.ArrayList.Project;
 
 public class Employee {
     String name;
